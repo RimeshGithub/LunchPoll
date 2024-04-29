@@ -3,7 +3,7 @@ import { getDatabase, ref, push, onValue, update, set } from "https://www.gstati
 
 // Firebase configuration
 const firebaseConfig = {
-  databaseURL: "https://mydumbproject-default-rtdb.europe-west1.firebasedatabase.app/"
+  databaseURL: "https://mydumbproject-3ca4c-default-rtdb.firebaseio.com/"
 };
 
 // Initialize Firebase app
